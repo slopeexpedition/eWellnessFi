@@ -1,7 +1,7 @@
 # eWellnessFi React.js Application Readme 
 [See me on YouTube](https://www.google.com)
 
-This is a guide for setting up and running the React.js application using Visual Studio Code.
+eWellnessFi is an Employee wellbeing mobile app built on React.Js and Solana Crypto.
 
 Let us understand the problem statement. In large multinational companies, what we noticed is that most of the employees are becoming physically inactive and are also mentally not so strong because of the work demands and long working hours.
 
@@ -14,6 +14,7 @@ This is our implementation Framework. we have leveraged Solana Account API,Mint 
 
 <img width="852" alt="image" src="https://user-images.githubusercontent.com/114743891/225197309-0666c265-5c4f-4b13-b6ed-e2569f67bd16.png">
 
+This is a guide for setting up and running the React.js application using Visual Studio Code.
 
 ## Requirements
 1. Node.js (version 14 or above)
